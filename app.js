@@ -3,6 +3,8 @@ const body = document.getElementsByTagName('body')[0];
 const btn = document.getElementById('btn');
 
 
+body.style.backgroundColor = 'lightyellow'
+
 btn.addEventListener('click', () => {
 
 
